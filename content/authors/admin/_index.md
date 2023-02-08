@@ -1,8 +1,9 @@
 ---
-title: Lingbo Huang 黄凌波
+title: Lingbo Huang
 role: Assistant Professor of Economics
-avatar_filename: personal-image.jpg
-bio: My research interests include human behavior in cooperation and conflict, distributive justice, charitable giving, and more recently market design.
+avatar_filename: avatar.jpg
+bio: My research interests include human behavior in cooperation and conflict,
+  distributive justice, charitable giving, and more recently market design.
 interests:
   - Cooperation and Conflict
   - Distributive Justice
