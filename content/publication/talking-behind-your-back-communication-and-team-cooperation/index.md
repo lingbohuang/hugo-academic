@@ -1,5 +1,6 @@
 ---
 title: "Talking Behind Your Back: Communication and Team Cooperation"
+subtitle: TalkBehind
 publication_types:
   - "2"
 authors:
