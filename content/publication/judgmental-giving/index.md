@@ -1,5 +1,5 @@
 ---
-title: "Persuadable or Dissuadable Altruists: The Impact of Information of Recipient Characteristics on Giving"
+title: "Persuadable or Dissuadable Altruists? The Impact of Information of Recipient Characteristics on Giving"
 authors:
 - Lata Gangadharan
 - Philip J. Grossman
@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: "Revise & Resubmit Economic Journal"
 publication_short: ""
 
-abstract: "We investigate how information about recipients' characteristics affects donors' giving as opposed to when no information is available. In a rational model in which information causes a donor to update her assessment of the recipient's deservingness, we introduce the idea that altruism can be "persuadable" ("dissuadable") by information about positive (negative) characteristics. We report data from three experiments in which donors are provided information regarding three recipient characteristics: alcoholism, attending courses, and disability. Across different characteristics, our results are broadly consistent with the predictions of persuadable altruism. Overall, we find a positive net impact of providing information on aggregate giving."
+abstract: "We investigate how information about recipients' characteristics affects donors' giving as opposed to when no information is available. In a rational model in which information causes a donor to update her assessment of the recipient's deservingness, we introduce the idea that altruism can be 'persuadable' ('dissuadable') by information about positive (negative) characteristics. We report data from three experiments in which donors are provided information regarding three recipient characteristics: alcoholism, attending courses, and disability. Across different characteristics, our results are broadly consistent with the predictions of persuadable altruism. Overall, we find a positive net impact of providing information on aggregate giving."
 
 # Summary. An optional shortened abstract.
 

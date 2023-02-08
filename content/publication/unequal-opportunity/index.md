@@ -1,5 +1,5 @@
 ---
-title: "They Never Had a Chance: Unequal Opportunities and Fair Redistributions"
+title: "'They Never Had a Chance': Unequal Opportunities and Fair Redistributions"
 authors:
 - Lu Dong
 - admin
