@@ -1,10 +1,12 @@
 ---
-title: "Preventive Wars"
+title: "Persuadable or Dissuadable Altruists? The Impact of Information of Recipient Characteristics on Giving"
 authors:
-- Klaus Abbink
-- Lu Dong
+- Lata Gangadharan
+- Philip J. Grossman
 - admin
-date: "2022-05-01T00:00:00Z"
+- C. Matthew Leister
+- Erte Xiao
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise & Resubmit Games and Economic Behavior"
+publication: "Revise & Resubmit Economic Journal"
 publication_short: ""
 
-abstract: "The rise of a new power may lead the dominant power to seek a preventive war. We study this scenario in an experimental two-stage bargaining game. In each stage, the rising power makes a bargaining offer and the declining power must choose whether to accept it or fight. Between the two stages, the winning probability shifts towards the rising power. We find fewer preventive wars when the power shift is smaller and when the rising state has the commitment power. Communication and repeated interaction decrease the likelihood of preventive wars. High fighting costs almost eliminate such wars when the rising power's first-stage offer is sufficiently large."
+abstract: "We investigate how information about recipients' characteristics affects donors' giving as opposed to when no information is available. In a rational model in which information causes a donor to update her assessment of the recipient's deservingness, we introduce the idea that altruism can be "persuadable" ("dissuadable") by information about positive (negative) characteristics. We report data from three experiments in which donors are provided information regarding three recipient characteristics: alcoholism, attending courses, and disability. Across different characteristics, our results are broadly consistent with the predictions of persuadable altruism. Overall, we find a positive net impact of providing information on aggregate giving. "
 
 # Summary. An optional shortened abstract.
 
@@ -28,7 +30,7 @@ tags:
 - Source Themes
 featured: false
 
-url_pdf: uploads/2022-preventive-war.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

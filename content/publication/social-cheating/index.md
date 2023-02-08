@@ -1,10 +1,11 @@
 ---
-title: "Preventive Wars"
+title: "Social Cheating in the Classroom: A Field Experiment"
 authors:
-- Klaus Abbink
 - Lu Dong
 - admin
-date: "2022-05-01T00:00:00Z"
+- Peter DeScioli
+- Ninghua Du
+date: "2018-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise & Resubmit Games and Economic Behavior"
+publication: ""
 publication_short: ""
 
-abstract: "The rise of a new power may lead the dominant power to seek a preventive war. We study this scenario in an experimental two-stage bargaining game. In each stage, the rising power makes a bargaining offer and the declining power must choose whether to accept it or fight. Between the two stages, the winning probability shifts towards the rising power. We find fewer preventive wars when the power shift is smaller and when the rising state has the commitment power. Communication and repeated interaction decrease the likelihood of preventive wars. High fighting costs almost eliminate such wars when the rising power's first-stage offer is sufficiently large."
+abstract: "We study children's cheating by conducting a field experiment in a local primary school. Children graded either their own or another student's test, and they could cheat by misreporting the overall score. Unbeknownst to them, the test-taker's original answers were recorded by carbonless copy paper. As expected, we find that children were generally more likely to cheat for themselves compared to cheating for others. To investigate cheating for others, we vary whether children graded their friend or an acquaintance and whether the grading pairs could discuss the test while grading. For the friend, children cheated little with or without discussion. For the acquaintance, they also rarely cheated without discussion; but with discussion, they cheated frequently, nearly as much as when grading themselves. We discuss implications of these findings on social cheating for theories about reciprocity and reputation."
 
 # Summary. An optional shortened abstract.
 
@@ -28,7 +29,7 @@ tags:
 - Source Themes
 featured: false
 
-url_pdf: uploads/2022-preventive-war.pdf
+url_pdf: uploads/2018-cheating.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
