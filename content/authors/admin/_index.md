@@ -40,7 +40,6 @@ highlight_name: true
 first_name: Lingbo
 email: lingbo.huang@outlook.com
 ---
-My research fields are behavioral and experimental economics. My main research interests include human behavior in cooperation and conflict, distributive justice, charitable giving, and more recently market design. For a summary of my current research, please see my [Research Statement (Dec, 2022).](uploads/Research%20Statement%20(Dec%202022).pdf)
+My research fields are behavioral and experimental economics. My main research interests include human behavior in cooperation and conflict, distributive justice, charitable giving, and more recently market design. For a summary of my current research, please see my [Research Statement (Dec, 2022).](uploads/ResearchStatement(Dec2022).pdf)
 
-<!--EndFragment-->
 {style="text-align: justify;"}
