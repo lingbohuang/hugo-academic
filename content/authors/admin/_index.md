@@ -31,11 +31,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Huang
 highlight_name: true
-first_name: Alice
+first_name: Lingbo
 email: lingbo.huang@outlook.com
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research fields are behavioral and experimental economics. My main research interests include human behavior in cooperation and conflict, distributive justice, charitable giving, and more recently market design.
 {style="text-align: justify;"}
