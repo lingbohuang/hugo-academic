@@ -2,19 +2,19 @@
 title: Lingbo Huang 黄凌波
 role: Assistant Professor of Economics
 avatar_filename: personal-image.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include human behavior in cooperation and conflict, distributive justice, charitable giving, and more recently market design.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cooperation and Conflict
+  - Distributive Justice
+  - Charitable Giving
+  - Market Design
 social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=BvtCSV4AAAAJ&hl=en
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 organizations:
   - name: Nanjing Audit University
 education:
