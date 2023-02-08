@@ -220,7 +220,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citation
+      view: list
 #  - block: collection
 #    id: talks
 #    content:
