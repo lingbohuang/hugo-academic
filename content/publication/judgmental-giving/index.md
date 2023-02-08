@@ -1,5 +1,5 @@
 ---
-title: "Persuadable or Dissuadable Altruists? The Impact of Information of Recipient Characteristics on Giving"
+title: "Persuadable or Dissuadable Altruists: The Impact of Information of Recipient Characteristics on Giving"
 authors:
 - Lata Gangadharan
 - Philip J. Grossman
