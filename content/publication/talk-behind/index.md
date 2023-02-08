@@ -29,6 +29,9 @@ tags:
 - Source Themes
 featured: true
 
+links:
+ - name: "Appendix"
+   url: "uploads/2022-talkbehind-app.pdf"
 url_pdf: uploads/2022-talkbehind.pdf
 url_code: ''
 url_dataset: 'uploads/2022-talkbehind-software-data.zip'
@@ -37,9 +40,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-links:
- - name: "appendix"
-   url: "uploads/2022-talkbehind-app.pdf"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
