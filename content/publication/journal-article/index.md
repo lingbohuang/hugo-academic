@@ -5,7 +5,7 @@ authors:
 - Lu Dong
 - admin
 #author_notes:
-date: "2015-09-01T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 doi: "10.1287/mnsc.2021.4143"
 
 # Schedule page publish date (NOT publication's date).
