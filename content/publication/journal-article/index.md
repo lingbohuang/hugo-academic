@@ -4,7 +4,7 @@ authors:
 - Klaus Abbink
 - Lu Dong
 - admin
-author_notes:
+#author_notes:
 date: "2015-09-01T00:00:00Z"
 doi: "10.1287/mnsc.2021.4143"
 
@@ -24,7 +24,7 @@ publication_short: ""
 abstract: Communication is one of the most effective devices in promoting team cooperation. However, asymmetric communication sometimes breeds collusion and hurts team efficiency. Here, we present experimental evidence showing that excluding one member from team communication hurts team cooperation: the communicating partners collude in profit allocation against the excluded member, and the latter reacts by exerting less effort. Allowing the partners to reach out to the excluded member partially restore cooperation and fairness in profit allocation; but it does not stop the partners from talking behind the that member's back even when they could have talked publicly. The partners sometimes game the system by tricking the excluded member into contributing but then grabbing all profits for themselves.
 
 # Summary. An optional shortened abstract.
-summary:
+#summary:
 
 tags:
 - Source Themes
@@ -33,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: uploads/2022-talkbehind.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
