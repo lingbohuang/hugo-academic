@@ -4,14 +4,15 @@ role: Assistant Professor of Economics
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Cooperation and Conflict
+  - Cooperation
+  - Conflict
   - Distributive Justice
   - Charitable Giving
   - Market Design
 social:
   - icon: envelope
     icon_pack: fas
-    link: emailto:lingbo.huang@outlook.com
+    link: mailto:lingbo.huang@outlook.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=BvtCSV4AAAAJ&hl=en
@@ -33,7 +34,6 @@ education:
       year: 2010
 superuser: true
 status:
-  ? icon
 last_name: Huang
 highlight_name: true
 first_name: Lingbo
