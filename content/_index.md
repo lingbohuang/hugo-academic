@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 
+title:
 date: 2023-2-8
 type: landing
 
@@ -42,7 +42,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      
+
       education:
 #  - block: features
 #    content:
@@ -209,7 +209,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: All Publications
+      title: All Publications & Working Papers
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
