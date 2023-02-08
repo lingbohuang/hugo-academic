@@ -20,6 +20,7 @@ social:
     icon_pack: ai
     link: uploads/cv.pdf
 organizations:
+  - name: Economics Experimental Lab
   - name: Nanjing Audit University
 education:
   courses:
