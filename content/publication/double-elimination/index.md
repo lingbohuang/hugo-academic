@@ -1,34 +1,33 @@
 ---
-title: "Preventive Wars"
+title: "Prize and Incentives in Double-Elimination Tournaments"
 authors:
-- Klaus Abbink
-- Lu Dong
 - admin
-date: "2022-08-01T00:00:00Z"
-doi: ""
+#author_notes:
+date: "2016-10-01T00:00:00Z"
+doi: "10.1287/mnsc.2021.4143"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-02-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise & Resubmit Games and Economic Behavior"
+publication: "*Economics Letters*, Volume 147, October 2016, Pages 116-120"
 publication_short: ""
-
-abstract: "The rise of a new power may lead the dominant power to seek a preventive war. We study this scenario in an experimental two-stage bargaining game. In each stage, the rising power makes a bargaining offer and the declining power must choose whether to accept it or fight. Between the two stages, the winning probability shifts towards the rising power. We find fewer preventive wars when the power shift is smaller and when the rising state has the commitment power. Communication and repeated interaction decrease the likelihood of preventive wars. High fighting costs almost eliminate such wars when the rising power's first-stage offer is sufficiently large."
+abstract: "I examine a game-theoretical model of two variants of double- elimination tournaments, and derive the equilibrium behavior of symmetric players and the optimal prize allocation assuming a designer aims to maximize total effort. I compare these theoretical properties to the well-known single-elimination tournament."
 
 # Summary. An optional shortened abstract.
+#summary:
 
 tags:
 - Source Themes
 featured: false
 
-url_pdf: uploads/2022-preventive-war.pdf
+url_pdf: uploads/2016-double-elimination.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -37,12 +36,13 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: ''
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
