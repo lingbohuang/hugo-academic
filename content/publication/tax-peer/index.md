@@ -1,5 +1,5 @@
 ---
-title: "Peer effects in public support for Pigouvian taxation"
+title: "Peer Effects in Public Support for Pigouvian Taxation"
 authors:
 - admin
 - Erte Xiao

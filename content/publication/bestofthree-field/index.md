@@ -1,5 +1,5 @@
 ---
-title: "Is there no 'I' in team? Strategic effects in multi-battle team competition"
+title: "Is There No 'I' in Team? Strategic Effects in Multi-Battle Team Competition"
 authors:
 - Lu Dong
 - admin

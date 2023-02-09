@@ -1,5 +1,5 @@
 ---
-title: "Tax liability side equivalence and time delayed externalities"
+title: "Tax Liability Side Equivalence and Time Delayed Externalities"
 authors:
 - admin
 - Silvia Tiezzi
@@ -29,9 +29,7 @@ tags:
 - Source Themes
 featured: false
 
-links:
- - name: "Appendix"
-   url: "uploads/2022-taxsupply-app.pdf"
+
 url_pdf: uploads/2022-taxsupply.pdf
 url_code: ''
 url_dataset: ''
