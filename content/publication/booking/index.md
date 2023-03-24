@@ -1,5 +1,5 @@
 ---
-title: "Born to wait? A study on allocation rules in booking systems"
+title: "Born to Wait? A Study on Allocation Rules in Booking Systems"
 authors:
 - admin
 - Tracy Xiao Liu
