@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise & Resubmit Economic Journal"
+publication: "Economic Journal, Conditionally Accepted"
 publication_short: ""
 
 abstract: "We investigate how information about recipients' characteristics affects donors' giving as opposed to when no information is available. In a rational model in which information causes a donor to update her assessment of the recipient's deservingness, we introduce the idea that altruism can be 'persuadable' ('dissuadable') by information about positive (negative) characteristics. We report data from three experiments in which donors are provided information regarding three recipient characteristics: alcoholism, attending courses, and disability. Across different characteristics, our results are broadly consistent with the predictions of persuadable altruism. Overall, we find a positive net impact of providing information on aggregate giving."
