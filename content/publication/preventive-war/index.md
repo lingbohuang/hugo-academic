@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise & Resubmit Games and Economic Behavior"
+publication: "R&R (Minor Revision), Games and Economic Behavior"
 publication_short: ""
 
 abstract: "The rise of a new power may lead the dominant power to seek a preventive war. We study this scenario in an experimental two-stage bargaining game. In each stage, the rising power makes a bargaining offer and the declining power must choose whether to accept it or fight. Between the two stages, the winning probability shifts towards the rising power. We find fewer preventive wars when the power shift is smaller and when the rising state has the commitment power. Communication and repeated interaction decrease the likelihood of preventive wars. High fighting costs almost eliminate such wars when the rising power's first-stage offer is sufficiently large."
