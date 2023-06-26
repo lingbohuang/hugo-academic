@@ -1,6 +1,6 @@
 ---
 title: Lingbo Huang
-role: Assistant Professor of Economics
+role: Professor of Economics
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -20,8 +20,8 @@ social:
     icon_pack: ai
     link: uploads/cv.pdf
 organizations:
-  - name: Economics Experimental Lab
-  - name: Nanjing Audit University
+  - name: Center for Economics Research
+  - name: Shandong University
 education:
   courses:
     - course: PhD in Econonomics
@@ -34,7 +34,7 @@ education:
       institution: Shanghai Jiaotong University
       year: 2010
 superuser: true
-status: 
+status:
 last_name: Huang
 highlight_name: true
 first_name: Lingbo
