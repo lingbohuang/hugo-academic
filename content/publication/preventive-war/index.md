@@ -4,20 +4,20 @@ authors:
 - Klaus Abbink
 - Lu Dong
 - admin
-date: "2022-08-01T00:00:00Z"
+date: "2023-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "R&R (Minor Revision), Games and Economic Behavior"
+publication: "*Games and Economic Behavior*, Forthcoming"
 publication_short: ""
 
 abstract: "The rise of a new power may lead the dominant power to seek a preventive war. We study this scenario in an experimental two-stage bargaining game. In each stage, the rising power makes a bargaining offer and the declining power must choose whether to accept it or fight. Between the two stages, the winning probability shifts towards the rising power. We find fewer preventive wars when the power shift is smaller and when the rising state has the commitment power. Communication and repeated interaction decrease the likelihood of preventive wars. High fighting costs almost eliminate such wars when the rising power's first-stage offer is sufficiently large."
@@ -26,7 +26,7 @@ abstract: "The rise of a new power may lead the dominant power to seek a prevent
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 url_pdf: uploads/2022-preventive-war.pdf
 url_code: ''
