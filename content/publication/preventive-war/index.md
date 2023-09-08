@@ -28,7 +28,10 @@ tags:
 - Source Themes
 featured: true
 
-url_pdf: uploads/2022-preventive-war.pdf
+links:
+ - name: "Appendix"
+   url: "uploads/2023-preventive-war-app.pdf"
+url_pdf: uploads/2023-preventive-war.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
