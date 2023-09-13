@@ -5,7 +5,7 @@ authors:
 - Lu Dong
 - admin
 date: "2023-09-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.geb.2023.08.018"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-01T00:00:00Z"
