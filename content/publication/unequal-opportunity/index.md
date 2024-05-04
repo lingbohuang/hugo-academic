@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise & Resubmit Economic Journal"
+publication: "R&R Economic Journal"
 publication_short: ""
 
 abstract: "A meritocratic fairness ideal is generally believed to regard income inequality as fair if it stems from performance differentials rather than luck. In this study, we present experimental evidence showing that merit judgments are shaped by the source of performance differentials while holding fixed the underlying impact on willingness to perform. Inspired by real-world phenomena which generate inequality, we investigate two types of unequal opportunities that impact performance: educational quality and employment opportunity. Contrary to some previous findings that merit judgements are often insensitive to unequal circumstances, we find that individuals are more inclined to split resources equally when the performance differential involves either type of unequal opportunity. We also find that when participants were given the option to expend personal effort to reveal information about the presence of unequal opportunity, a substantial number of them declined to do so, but held optimistic beliefs about the social norm of seeking such information. These findings enrich our understanding of the factors that lead individuals to support income redistribution, while also obtaining an assessment regarding to what degree redistributing third-party decision-makers are vested in these choices."

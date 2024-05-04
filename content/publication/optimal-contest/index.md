@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Major Revision at Management Science"
+publication: "R&R Management Science"
 publication_short: ""
 
 abstract: "This paper examines the optimal contest design in the presence of negative prizes and establishes the optimality of a modified all-pay auction with entry fee and reserve. The entry fee always equals the contestants' liability, and the reserve is weakly higher than in contests without negative prizes. The modification involves awarding all contestants a strictly positive prize if none meet the reserve. This optimal contest better incentivizes high-ability contestants by offering them a higher prize augmented by entry fees, while still ensuring full participation from low-ability contestants. Theoretical analysis demonstrates that when contestants' liability is sufficiently high, the same contest maximizes both the expected total effort and winner's effort, with both measures increasing with liability. To test these predictions, we conduct an experiment comparing optimal contests across different liability levels. Results closely align with predictions, confirming that a contest with higher liability more effectively achieves the predicted ''one-stone-kills-two-birds'' outcome."

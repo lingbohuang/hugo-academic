@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "R&R Production and Operations Management"
 publication_short: ""
 
 abstract: "Many goods and services are allocated through various booking systems. Queue-based booking systems are often thought to allocate goods more efficiently than random allocation because the time spent queuing signals an agent's valuation. This paper demonstrates that the opportunity cost of queuing time can be a significant efficiency loss in queue-based systems. To quantify different sources of efficiency loss, we first develop an experimental framework where agents participate in both a booking system and a production activity. Using a queue-based booking system, our lab experiments confirm that the efficiency loss due to the opportunity cost of queuing time dominates other sources of efficiency loss. However, a lottery-based booking system almost eliminates this efficiency loss. We further develop a novel dual-track booking system that allows participants to choose their preferred booking track, and find that most prefer the lottery track to the queue track."
