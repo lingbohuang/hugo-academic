@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accept subject to minor revisions, Games and Economic Behavior"
+publication: "Accepted, Games and Economic Behavior"
 publication_short: ""
 
 abstract: "In a social network in which friendly and rival bilateral links can be formed, how do alliances between decision-makers form, and what determines whether a conflict will arise? We study a network formation game between ex-ante symmetric players in the laboratory to examine the dynamics of alliance formation and conflict evolution. A peaceful equilibrium yields the greatest social welfare, while a successful bullying attack transfers the victimized player’s resources evenly to the attackers at a cost. In within-subject and between-subject laboratory experiments, we find that the relative frequency of peaceful and bullying outcomes increases in the cost of attack. We further examine the dynamics leading to the final network and find that groups tend to coordinate quickly on a first target for attack, while the first attacker entails a non-negligible risk of successful counter-attack. These findings provide insights for understanding social dynamics in group coordination."
