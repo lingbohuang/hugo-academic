@@ -1,5 +1,5 @@
 ---
-title: "Optimal Contests with Negative Prize: Theory and Experiment"
+title: "Optimal Contests with Negative Prizes: Theory and Experiment"
 authors:
 - admin
 - Jingjing Zhang
