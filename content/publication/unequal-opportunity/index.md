@@ -4,7 +4,7 @@ authors:
 - Lu Dong
 - admin
 - Jaimie W. Lien
-date: "2024-01-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,21 +14,24 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "R&R Economic Journal"
+publication: "Economic Journal, Conditionally Accepted"
 publication_short: ""
 
-abstract: "A meritocratic fairness ideal is generally believed to regard income inequality as fair if it stems from performance differentials rather than luck. In this study, we present experimental evidence showing that merit judgments are shaped by the source of performance differentials while holding fixed the underlying impact on willingness to perform. Inspired by real-world phenomena which generate inequality, we investigate two types of unequal opportunities that impact performance: educational quality and employment opportunity. Contrary to some previous findings that merit judgements are often insensitive to unequal circumstances, we find that individuals are more inclined to split resources equally when the performance differential involves either type of unequal opportunity. We also find that when participants were given the option to expend personal effort to reveal information about the presence of unequal opportunity, a substantial number of them declined to do so, but held optimistic beliefs about the social norm of seeking such information. These findings enrich our understanding of the factors that lead individuals to support income redistribution, while also obtaining an assessment regarding to what degree redistributing third-party decision-makers are vested in these choices."
+abstract: "A meritocratic fairness ideal typically asserts that income inequality is justifiable if it arises from differences in performance rather than mere luck. In this study, we present experimental evidence that reveals how merit judgments are influenced by the sources of performance differentials, while holding fixed the underlying impact on incentives to perform. Drawing inspiration from real-world factors that create inequality, we investigate unequal opportunities in education and employment that impact performance. Contrary to some earlier findings suggesting that merit judgments are unaffected by unequal circumstances, our study demonstrates that individuals’ redistributive behaviour is responsive to both the nature and extent of these unequal opportunities. This research thus provides fresh insights into the nuanced factors that motivate people to endorse income redistribution."
 
 # Summary. An optional shortened abstract.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
-url_pdf: uploads/2022-unequal-opportunity.pdf
+links:
+ - name: "Appendix"
+   url: "uploads/2024-unequal-opportunity-app.pdf"
+url_pdf: uploads/2024-unequal-opportunity.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

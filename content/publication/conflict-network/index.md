@@ -27,7 +27,7 @@ abstract: "In a social network in which friendly and rival bilateral links can b
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
  - name: "Appendix"
